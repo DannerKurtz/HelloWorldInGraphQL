@@ -1,0 +1,14 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.9.0",
+    "nodemon": "^3.1.7"
+  }
+}
